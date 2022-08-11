@@ -15,7 +15,8 @@ button {
 background-color: red;
 color: white; 
 font-size:30px;
-margin-left: 540px;
+align: center;
+margin-rigt:450 px
 border:solid 02px red;
 border-radius: 7.5px;
 }
@@ -29,5 +30,5 @@ height: 350px;
 height:350px;
 width:300px;
  border: solid 2px;
-  margin: 0px  0px  60px 100px;
+  margin: 0px  0px  30px 50px;
 
