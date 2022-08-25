@@ -15,22 +15,22 @@ button {
 background-color: red;
 color: white; 
 font-size:30px;
-align: center;
-margin-rigt:450 px
+margin-rigt:350 px
 border:solid 02px red;
 border-radius: 7.5px;
 }
 img{
 height: 350px;
-  width: 400px;
-  border: solid 2px;
-  margin: 0px 200px  100px 0px;
+width: 400px;
+border: solid 2px;
+margin: 0px 200px  100px 0px;
 }
 .img1{
 height:350px;
-width:300px;
- border: solid 2px;
-  margin: 0px  0px  30px 50px;
+width: 350px;
+border: solid 2px;
+margin: 0px  0px  30px 50px;
+}
 a{
-  color:white;
+color:white;
   }
