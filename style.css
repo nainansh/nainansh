@@ -15,13 +15,13 @@ button {
 background-color: red;
 color: white; 
 font-size:30px;
-margin-rigt:350 px
+margin-rigt:500 px
 border:solid 02px red;
 border-radius: 7.5px;
 }
 img{
 height: 350px;
-width: 400px;
+width: 500px;
 border: solid 2px;
 margin: 0px 200px  100px 0px;
 }
